@@ -10,6 +10,6 @@ The tutorial of the bike sharing system data aggregation can be found in [Toward
 
 Data owner is City Bikes Finland and the dataset can be found to download in [HSL](https://www.hsl.fi/en/hsl/open-data#journeys-made-by-city-bikes)
 
-# Map part of 30DaysMapChallenge 3D jointly with [Digital Geography Lab](https://www2.helsinki.fi/en/researchgroups/digital-geography-lab) from University of Helsinki
+Map part of #30DaysMapChallenge 3D jointly with [Digital Geography Lab](https://www2.helsinki.fi/en/researchgroups/digital-geography-lab) from University of Helsinki
 
 ![3D](root/bike-moves-helsinki.png)
